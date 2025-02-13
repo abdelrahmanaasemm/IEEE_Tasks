@@ -1,0 +1,26 @@
+1 Mazen created a new local HTML & CSS project where the index.html file is located at C:/Users/mazen/website/.
+He needed to add some external styles and assets to his HTML file, but he got confused with different types of paths. Help Mazen know the full path for the following inputs:
+
+1- C:/images/image1.png (absolute path)
+2- C:/Users/mazen/website/js/app.js (relative path)
+3- C:/Users/mazen/footage/video.mp4 (relative path)
+4- C:/Users/mazen/website/css/styles.css (relative path)
+5- D:/memories/photo1.jpeg (absolute path)
+
+2 Open IEEE Mansoura Branch Website and navigate to the past sponsors section, then use DevTools to get the class name of the <a> tag referring to NTRA website.
+
+class="sponser-card"
+
+
+<a target="blank" class="sponser-card" href="https://www.tra.gov.eg">
+<img alt="" loading="lazy" decoding="async" data-nimg="fill" style="position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit
+:contain;color:transparent" sizes="100vw" srcset="/_next/image?url=https%3A%2F%2Fieeemansb.org%2Fmedia%2Fpartners%2Fntra_logo_compressed.png&amp;w=640
+&amp;q=75 640w, /_next/image?url=https%3A%2F%2Fieeemansb.org%2Fmedia%2Fpartners%2Fntra_logo_compressed.png&amp;w=750&amp;q=75 750w, /_next/image?url=https
+%3A%2F%2Fieeemansb.org%2Fmedia%2Fpartners%2Fntra_logo_compressed.png&amp;w=828&amp;q=75 828w, /_next/image?url=https%3A%2F%2Fieeemansb.org%2Fmedia%2Fpartn
+ers%2Fntra_logo_compressed.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=https%3A%2F%2Fieeemansb.org%2Fmedia%2Fpartners%2Fntra_logo_compressed.png&amp;w=
+1200&amp;q=75 1200w, /_next/image?url=https%3A%2F%2Fieeemansb.org%2Fmedia%2Fpartners%2Fntra_logo_compressed.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=
+https%3A%2F%2Fieeemansb.org%2Fmedia%2Fpartners%2Fntra_logo_compressed.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=https%3A%2F%2Fieeemansb.org%2Fmedia%2F
+partners%2Fntra_logo_compressed.png&amp;w=3840&amp;q=75 3840w" src="/_next/image?url=https%3A%2F%2Fieeemansb.org%2Fmedia%2Fpartners%2Fntra_logo_compressed.p
+ng&amp;w=3840&amp;q=75"></a>
+
+
